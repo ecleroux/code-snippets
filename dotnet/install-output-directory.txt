@@ -1,0 +1,1 @@
+nuget install <PackageName>  -Version 0.0.0 -OutputDirectory ./packages
